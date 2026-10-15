@@ -1,0 +1,19 @@
+{
+  "name": "bloomclub",
+  "owner": {
+    "name": "novoeva",
+    "url": "https://github.com/novoeva"
+  },
+  "metadata": {
+    "description": "Skills from the AI Bloom Club workshop for first-time app builders."
+  },
+  "plugins": [
+    {
+      "name": "bloomclub",
+      "source": "./",
+      "description": "Skills from the AI Bloom Club workshop: turn your app idea into a simple first PRD.",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ]
+}

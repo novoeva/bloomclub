@@ -1,0 +1,10 @@
+{
+  "name": "bloomclub",
+  "description": "Skills from the AI Bloom Club workshop for first-time app builders.",
+  "version": "0.1.0",
+  "author": {
+    "name": "novoeva",
+    "url": "https://github.com/novoeva"
+  },
+  "homepage": "https://github.com/novoeva/bloomclub"
+}
