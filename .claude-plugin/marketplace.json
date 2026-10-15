@@ -11,8 +11,8 @@
     {
       "name": "bloomclub",
       "source": "./",
-      "description": "Skills from the AI Bloom Club workshop: turn your app idea into a simple first PRD.",
-      "version": "0.1.0",
+      "description": "Skills from the AI Bloom Club workshop: turn your app idea into a simple first PRD, then define how your app should look.",
+      "version": "0.2.0",
       "category": "productivity"
     }
   ]
